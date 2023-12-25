@@ -21,14 +21,5 @@ To view the website locally, follow these steps:
 Clone this repository to your local machine using:
 https://github.com/PiyushAgarwal23/apple-clone.git
 
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/awesome-feature).
-Make your changes.
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/awesome-feature).
-Create a new Pull Request.
 
 This project was created by [Piyush Agarwal].
