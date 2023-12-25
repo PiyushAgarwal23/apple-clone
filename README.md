@@ -19,7 +19,7 @@ Installation
 To view the website locally, follow these steps:
 
 Clone this repository to your local machine using:
-git clone https://github.com/your-username/apple-clone.git
+https://github.com/PiyushAgarwal23/apple-clone.git
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
