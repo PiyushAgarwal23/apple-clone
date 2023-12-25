@@ -15,7 +15,7 @@ Technologies Used
 HTML
 CSS
 JavaScript
-Installation
+Installation /n
 To view the website locally, follow these steps:
 
 Clone this repository to your local machine using:
